@@ -1,0 +1,27 @@
+#mainCont {
+  margin-top: 60px;
+}
+#canvasCont {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 0;
+}
+.lightState {
+  height: 30px;
+  width: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.spacerV10 {
+  margin-top: 10px;
+}
+.spacerV20 {
+  margin-top: 20px;
+}
+.spacerV30 {
+  margin-top: 30px;
+}
+.spacerV40 {
+  margin-top: 40px;
+}
+/*# sourceMappingURL=lighty.css.map */
