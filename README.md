@@ -7,7 +7,7 @@ The project is also used to demonstrate and test different technologies.
 ### Image mode
 ![Image Mode](./docs/image_mode-tumb.png?raw=true)
 
-[Screenshot Image Mode](./docs/image_mode-tumb.png?raw=true)
+[Screenshot Image Mode](./docs/image_mode.png?raw=true)
 
 You select a predefined image or use you own and place the lights on the desired location of the image. The transition to 
 different light colors is achieved by rotating the image at the desired speed. 
@@ -15,7 +15,7 @@ different light colors is achieved by rotating the image at the desired speed.
 ### Audio mode
 ![Audio Mode](./docs/audio_mode-tumb.png?raw=true)
 
-[Screenshot Audio Mode](./docs/audio_mode-tumb.png?raw=true)
+[Screenshot Audio Mode](./docs/audio_mode.png?raw=true)
 
 Using the Web Audio Api you can select an audio source (For example "What you hear" or a microphone) that will be used to
 draw the spectrum. Now you can place your lights on the desired location so that it changes color depending on the music.
@@ -25,7 +25,7 @@ Only tested in Firefox!
 ### Pro mode
 ![Pro Mode](./docs/pro_mode-tumb.png?raw=true)
 
-[Screenshot Pro Mode](./docs/pro_mode-tumb.png?raw=true)
+[Screenshot Pro Mode](./docs/pro_mode.png?raw=true)
 
 Simple interface to perform experiments using PIXIjs to draw custom content on the canvas.
 
